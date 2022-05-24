@@ -2,6 +2,9 @@ name: CI
 on:
   push:
   pull_request:
+  # trigger a cron job every month
+  schedule:
+    - cron: '0 0 1 * *'
 
 jobs:
   bench:
