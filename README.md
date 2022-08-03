@@ -2,7 +2,7 @@
 
 [![CI](https://github.com/martonbognar/vrased-gap/actions/workflows/ci.yaml/badge.svg)](https://github.com/martonbognar/vrased-gap/actions/workflows/ci.yaml)
 
-This repository contains part of the source code accompanying our [paper](https://mici.hu/papers/bognar2022gap.pdf) "Mind
+This repository contains part of the source code accompanying our [paper](https://mici.hu/papers/bognar22gap.pdf) "Mind
 the Gap: Studying the Insecurity of Provably Secure Embedded Trusted Execution
 Architectures" to appear at the IEEE Symposium on Security and Privacy 2022.
 More information on the paper and links to other investigated systems can be
