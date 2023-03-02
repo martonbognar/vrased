@@ -129,7 +129,7 @@ What follows are minimal instructions to get the experimental environment up and
 
 - Prerequisites:
   ```bash
-  $ sudo apt-get install bison pkg-config gawk clang flex gcc-msp430 iverilog expect-dev libffi-dev
+  $ sudo apt-get install bison pkg-config gawk clang flex gcc-msp430 iverilog expect-dev libffi-dev tcl bc
   ```
 - Checkout VRASED:
   ```bash
